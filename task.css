@@ -5,7 +5,7 @@ nav {
     width: 100%;
     height: 8vh;
     background-color: white;
-    display: inline-block;
+    display: inline;
     display: flex;
     position: sticky;
     top: 0;
@@ -16,14 +16,14 @@ nav {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-left: 20px;
     padding-top: 0.6em;
-    font-size: 1.3em;
-    text-indent: 1.4em;
+    font-size: 1.2em;
+   
 }
 
 .proj {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    padding-left: 48em;
-    word-spacing: 2em;
+    padding-left: 45em;
+    word-spacing: 45px;
     font-size: 1.3em;
     margin-top: -1.20em;
 
@@ -101,7 +101,7 @@ hr{
     opacity: 0.3;
 }
 .img2{
-    margin-left: 40px;
+    margin-left: 15px;
     position: relative;
     
 }
@@ -110,7 +110,7 @@ hr{
     background-color: black;
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    width: 195px;
+    width: 185px;
     height: 5.79vh;
     font-size: x-large;
     text-align: center;
@@ -149,7 +149,7 @@ hr{
 .img6{
     background-color: black;
     color: white;
-    width: 195px;
+    width: 185px;
     height: 4.5vh;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: x-large;
@@ -163,7 +163,7 @@ hr{
     background-color: black;
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    width: 195px;
+    width: 185px;
     height: 5.79vh;
     font-size: x-large;
     text-align: center;
@@ -203,13 +203,13 @@ display: flex;
     margin-left: 3.1em;
 }
 .para3{
-    margin-left: 4.1em;
+    margin-left: 1.5em;
 }
 .para4{
-margin-left: 4.6em;
+margin-left: 1.5em;
 }
 .para5{
-    margin-left: 4.6em;
+    margin-left: 2.8em;
 }
 .con1{
     margin-left: 2.5em;
@@ -227,7 +227,7 @@ padding: 1.65em;
 
 }
 .con2{
-    margin-left: 1.8em;
+    margin-left: 1.5em;
     background-color: rgba(215, 212, 212, 0.699);
     font-family: 'Poppins', sans-serif;
 font-family: 'Raleway', sans-serif;
@@ -241,7 +241,7 @@ padding: 1.65em;
     background-color: rgb(145, 141, 141);
 }
 .con3{
-    margin-left: 1.85em;
+    margin-left: 1.5em;
     background-color: rgba(215, 212, 212, 0.699);
     font-family: 'Poppins', sans-serif;
 font-family: 'Raleway', sans-serif;
@@ -256,7 +256,7 @@ padding: 1.65em;
 
 
 .con4{
-    margin-left: 2.75em;
+    margin-left: 1.5em;
     background-color: rgba(215, 212, 212, 0.699);
     font-family: 'Poppins', sans-serif;
 font-family: 'Raleway', sans-serif;
